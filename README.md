@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Daysielle Ribeiro 😀
 
-    🌱 Estudando React, Typescript e Node.js
+    🌱 Estudando React, TypeScript e Node.js
 
 <div>
   <a href="https://github.com/dayseribeiro">
