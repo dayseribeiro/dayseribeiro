@@ -13,7 +13,7 @@
   ##
 <div> 
  
-  ![Snake animation](https://github.com/dayseribeiro/dayseribeiro/blob/main/.github/workflows/snake.svg)
+  ![Snake animation](https://github.com/dayseribeiro/dayseribeiro/blob/output/.github/workflows/snake.svg)
  
-  
+
 </div>
