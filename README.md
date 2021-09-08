@@ -1,4 +1,4 @@
-### Olá, Eu sou a Daysielle Ribeiro 😀
+### Olá! Eu sou a Daysielle Ribeiro 😀
 
     🌱 Estudando React.js, TypeScript e Node.js
 
